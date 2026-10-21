@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wildestroper3g.github.io/sz-f64/sitemap.xml
